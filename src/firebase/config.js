@@ -4,7 +4,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDQIVDtFXrdSGa0pxQP2-IFf0cAx7KF0MU",
+  apiKey: "api key",
   authDomain: "moneyhelper-80ff7.firebaseapp.com",
   projectId: "moneyhelper-80ff7",
   storageBucket: "moneyhelper-80ff7.firebasestorage.app",
